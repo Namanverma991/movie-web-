@@ -1,0 +1,19 @@
+.detail{
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    justify-content: center;
+    margin: 150px 500px;
+    padding: 20px;
+    background: transparent;
+    background-color: aliceblue;
+}
+
+.login{
+    text-align: center;
+}
+
+body{
+    background-color: skyblue;
+}

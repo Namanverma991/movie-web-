@@ -1,0 +1,27 @@
+.pay{
+    height: 400px;
+    width: 400px;
+    margin-left: 460px;
+    margin-top: 80px;
+    border: 2px solid black;
+    border-radius: 10%;
+    background-image: url("Screenshot (7).jpg");
+    background-size: cover;
+    text-align: center;
+}
+
+body{
+    background-color:skyblue;
+}
+
+h3{
+    text-align: center;
+    color: blue;
+}
+
+button{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    margin-left: 622px;
+}
